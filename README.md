@@ -2,7 +2,14 @@
 
 **MacroTake** is a mobile app that allows users to log their daily meals and track their macros (calories, carbs, protein, fat) efficiently.
 
-![MacroTake App Screenshot](assets/images/MacroTake-Screenshot.png)
+<p align="center">
+  <img 
+    src="assets/images/MacroTake-Mockup.png" 
+    alt="MacroTake App Screenshot" 
+    width="380" 
+    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"
+  />
+</p>
 
 ## Features
 - Meal intake form
