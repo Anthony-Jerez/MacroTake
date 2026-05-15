@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="assets/images/MacroTake-Mockup.png" 
+    src="assets/images/MacroTake-Screenshot.png" 
     alt="MacroTake App Screenshot" 
     width="380" 
     style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"
